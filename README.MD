@@ -22,5 +22,5 @@ Gerador de QR code
 
 * pyPng
 
-      pip3 install pyqrcode
+      pip3 install pypng
 
