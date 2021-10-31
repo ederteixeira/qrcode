@@ -1,5 +1,5 @@
 import pyqrcode
 
-url = pyqrcode.create('https://www.linkedin.com/in/teixeiraeder/')
-url.svg('linkedin.svg', scale=6)
-url.png('LInkedin.png', scale=6)
+url = pyqrcode.create('https://github.com/ederteixeirahttps://github.com/ederteixeira')
+url.svg('github.svg', scale=6)
+url.png('github.png', scale=6)
