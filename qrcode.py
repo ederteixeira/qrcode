@@ -8,7 +8,8 @@ def gerador():
     url.png('qrcode.png', scale=6)
 
 app = Tk()
-app.geometry("400x250")
+app.geometry("328x80")
+app.resizable(width=False, height=False)
 app.title("Gerador QRCode")
 
 texto = Label(app, text="Informe o site:")
